@@ -11,3 +11,5 @@ The above code for the Krushkal's algorithm <a href="https://krushkalalgorithm.s
  ### Linear Probing
  
  The above code is for Linear Probing which occurs in Hashtables <a href="https://linearprobing.srikanthsriku.repl.run">Run Linear Probing</a>
+ 
+ <a href="https://graphs.srikanthsriku.repl.run">Run Graphs</a>
