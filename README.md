@@ -8,4 +8,4 @@ The above code for the prim's algorithm <a href="https://primsalgorithm.srikanth
 ### Krushkal algorithm
 The above code for the Krushkal's algorithm <a href="https://krushkalalgorithm.srikanthsriku.repl.run">Run Kruhskals Algorithm</a>
 
- {% include button.html button_name="Run Prim's" button_class="outline-primary" url="https://primsalgorithm.srikanthsriku.repl.run" %}
+ 
