@@ -8,4 +8,6 @@ The above code for the prim's algorithm <a href="https://primsalgorithm.srikanth
 ### Krushkal algorithm
 The above code for the Krushkal's algorithm <a href="https://krushkalalgorithm.srikanthsriku.repl.run">Run Kruhskals Algorithm</a>
 
+ ### Linear Probing
  
+ The above code is for Linear Probing which occurs in Hashtables <a href="https://linearprobing.srikanthsriku.repl.run">Run Linear Probing</a>
